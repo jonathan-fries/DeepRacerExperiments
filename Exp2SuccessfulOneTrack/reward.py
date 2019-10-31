@@ -97,4 +97,4 @@ def reward_function(params):
     prev_track_direction = track_direction
     last_first_waypoint = waypoint1
 
-    return float(reward)
+    return float(reward) 
